@@ -5,6 +5,6 @@ title: test blog baslik
 ---
 # test blog title
 
-
-
 test blog content
+
+![](/assets/robert-bye-lqzjf4ukqz0-unsplash.jpg)
